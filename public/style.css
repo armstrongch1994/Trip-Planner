@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sana-serif;
+  background-color: #c1b5ad;
+}
+
+#map {
+  height: 1000vh;
+  width: 100vw;
+}
